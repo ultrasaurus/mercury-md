@@ -1,0 +1,15 @@
+{
+    "name": "hello-mercury-parser",
+    "version": "0.0.1",
+    "main": "hello.js",
+    "author": "Sarah Allen <sarah@ultrasaurus.com>",
+    "license": "MIT",
+    "description": "experiment using mercury-parser",
+    "type": "module",
+    "dependencies": {
+        "@postlight/mercury-parser": "^2.2.1"
+    },
+    "scripts": {
+        "start": "node hello.js"
+    }
+}
